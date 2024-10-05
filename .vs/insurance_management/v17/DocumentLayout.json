@@ -1,0 +1,241 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Arshitha\\source\\repos\\insurance_management\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5BDE9BA1-95BC-4F3F-A380-9FF69D239A05}|insurance_management\\insurance_management.csproj|c:\\users\\arshitha\\source\\repos\\insurance_management\\insurance_management\\main\\mainmodule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BDE9BA1-95BC-4F3F-A380-9FF69D239A05}|insurance_management\\insurance_management.csproj|solutionrelative:insurance_management\\main\\mainmodule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BDE9BA1-95BC-4F3F-A380-9FF69D239A05}|insurance_management\\insurance_management.csproj|c:\\users\\arshitha\\source\\repos\\insurance_management\\insurance_management\\dao\\insuranceserviceimpl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BDE9BA1-95BC-4F3F-A380-9FF69D239A05}|insurance_management\\insurance_management.csproj|solutionrelative:insurance_management\\dao\\insuranceserviceimpl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BDE9BA1-95BC-4F3F-A380-9FF69D239A05}|insurance_management\\insurance_management.csproj|c:\\users\\arshitha\\source\\repos\\insurance_management\\insurance_management\\dao\\ipolicyservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BDE9BA1-95BC-4F3F-A380-9FF69D239A05}|insurance_management\\insurance_management.csproj|solutionrelative:insurance_management\\dao\\ipolicyservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BDE9BA1-95BC-4F3F-A380-9FF69D239A05}|insurance_management\\insurance_management.csproj|c:\\users\\arshitha\\source\\repos\\insurance_management\\insurance_management\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BDE9BA1-95BC-4F3F-A380-9FF69D239A05}|insurance_management\\insurance_management.csproj|solutionrelative:insurance_management\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BDE9BA1-95BC-4F3F-A380-9FF69D239A05}|insurance_management\\insurance_management.csproj|c:\\users\\arshitha\\source\\repos\\insurance_management\\insurance_management\\models\\claim.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BDE9BA1-95BC-4F3F-A380-9FF69D239A05}|insurance_management\\insurance_management.csproj|solutionrelative:insurance_management\\models\\claim.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BDE9BA1-95BC-4F3F-A380-9FF69D239A05}|insurance_management\\insurance_management.csproj|c:\\users\\arshitha\\source\\repos\\insurance_management\\insurance_management\\utilities\\dbconnutil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BDE9BA1-95BC-4F3F-A380-9FF69D239A05}|insurance_management\\insurance_management.csproj|solutionrelative:insurance_management\\utilities\\dbconnutil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BDE9BA1-95BC-4F3F-A380-9FF69D239A05}|insurance_management\\insurance_management.csproj|c:\\users\\arshitha\\source\\repos\\insurance_management\\insurance_management\\exceptions\\policynotfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BDE9BA1-95BC-4F3F-A380-9FF69D239A05}|insurance_management\\insurance_management.csproj|solutionrelative:insurance_management\\exceptions\\policynotfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BDE9BA1-95BC-4F3F-A380-9FF69D239A05}|insurance_management\\insurance_management.csproj|c:\\users\\arshitha\\source\\repos\\insurance_management\\insurance_management\\models\\policy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BDE9BA1-95BC-4F3F-A380-9FF69D239A05}|insurance_management\\insurance_management.csproj|solutionrelative:insurance_management\\models\\policy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BDE9BA1-95BC-4F3F-A380-9FF69D239A05}|insurance_management\\insurance_management.csproj|c:\\users\\arshitha\\source\\repos\\insurance_management\\insurance_management\\models\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BDE9BA1-95BC-4F3F-A380-9FF69D239A05}|insurance_management\\insurance_management.csproj|solutionrelative:insurance_management\\models\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BDE9BA1-95BC-4F3F-A380-9FF69D239A05}|insurance_management\\insurance_management.csproj|c:\\users\\arshitha\\source\\repos\\insurance_management\\insurance_management\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{5BDE9BA1-95BC-4F3F-A380-9FF69D239A05}|insurance_management\\insurance_management.csproj|solutionrelative:insurance_management\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BDE9BA1-95BC-4F3F-A380-9FF69D239A05}|insurance_management\\insurance_management.csproj|c:\\users\\arshitha\\source\\repos\\insurance_management\\insurance_management\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BDE9BA1-95BC-4F3F-A380-9FF69D239A05}|insurance_management\\insurance_management.csproj|solutionrelative:insurance_management\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BDE9BA1-95BC-4F3F-A380-9FF69D239A05}|insurance_management\\insurance_management.csproj|c:\\users\\arshitha\\source\\repos\\insurance_management\\insurance_management\\models\\payment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BDE9BA1-95BC-4F3F-A380-9FF69D239A05}|insurance_management\\insurance_management.csproj|solutionrelative:insurance_management\\models\\payment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BDE9BA1-95BC-4F3F-A380-9FF69D239A05}|insurance_management\\insurance_management.csproj|c:\\users\\arshitha\\source\\repos\\insurance_management\\insurance_management\\insurance_management.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{5BDE9BA1-95BC-4F3F-A380-9FF69D239A05}|insurance_management\\insurance_management.csproj|solutionrelative:insurance_management\\insurance_management.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IPolicyService.cs",
+              "DocumentMoniker": "C:\\Users\\Arshitha\\source\\repos\\insurance_management\\insurance_management\\dao\\IPolicyService.cs",
+              "RelativeDocumentMoniker": "insurance_management\\dao\\IPolicyService.cs",
+              "ToolTip": "C:\\Users\\Arshitha\\source\\repos\\insurance_management\\insurance_management\\dao\\IPolicyService.cs",
+              "RelativeToolTip": "insurance_management\\dao\\IPolicyService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-05T03:52:45.346Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainModule.cs",
+              "DocumentMoniker": "C:\\Users\\Arshitha\\source\\repos\\insurance_management\\insurance_management\\main\\MainModule.cs",
+              "RelativeDocumentMoniker": "insurance_management\\main\\MainModule.cs",
+              "ToolTip": "C:\\Users\\Arshitha\\source\\repos\\insurance_management\\insurance_management\\main\\MainModule.cs",
+              "RelativeToolTip": "insurance_management\\main\\MainModule.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAQwEEAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-05T03:59:35.036Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DBConnUtil.cs",
+              "DocumentMoniker": "C:\\Users\\Arshitha\\source\\repos\\insurance_management\\insurance_management\\Utilities\\DBConnUtil.cs",
+              "RelativeDocumentMoniker": "insurance_management\\Utilities\\DBConnUtil.cs",
+              "ToolTip": "C:\\Users\\Arshitha\\source\\repos\\insurance_management\\insurance_management\\Utilities\\DBConnUtil.cs",
+              "RelativeToolTip": "insurance_management\\Utilities\\DBConnUtil.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAAAYwDoAAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-05T03:56:39.202Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "InsuranceServiceImpl.cs",
+              "DocumentMoniker": "C:\\Users\\Arshitha\\source\\repos\\insurance_management\\insurance_management\\dao\\InsuranceServiceImpl.cs",
+              "RelativeDocumentMoniker": "insurance_management\\dao\\InsuranceServiceImpl.cs",
+              "ToolTip": "C:\\Users\\Arshitha\\source\\repos\\insurance_management\\insurance_management\\dao\\InsuranceServiceImpl.cs",
+              "RelativeToolTip": "insurance_management\\dao\\InsuranceServiceImpl.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAQwHAAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-05T03:53:04.604Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Claim.cs",
+              "DocumentMoniker": "C:\\Users\\Arshitha\\source\\repos\\insurance_management\\insurance_management\\Models\\Claim.cs",
+              "RelativeDocumentMoniker": "insurance_management\\Models\\Claim.cs",
+              "ToolTip": "C:\\Users\\Arshitha\\source\\repos\\insurance_management\\insurance_management\\Models\\Claim.cs",
+              "RelativeToolTip": "insurance_management\\Models\\Claim.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-05T03:55:29.523Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Arshitha\\source\\repos\\insurance_management\\insurance_management\\Program.cs",
+              "RelativeDocumentMoniker": "insurance_management\\Program.cs",
+              "ToolTip": "C:\\Users\\Arshitha\\source\\repos\\insurance_management\\insurance_management\\Program.cs",
+              "RelativeToolTip": "insurance_management\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-05T03:41:11.127Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "PolicyNotFoundException.cs",
+              "DocumentMoniker": "C:\\Users\\Arshitha\\source\\repos\\insurance_management\\insurance_management\\Exceptions\\PolicyNotFoundException.cs",
+              "RelativeDocumentMoniker": "insurance_management\\Exceptions\\PolicyNotFoundException.cs",
+              "ToolTip": "C:\\Users\\Arshitha\\source\\repos\\insurance_management\\insurance_management\\Exceptions\\PolicyNotFoundException.cs",
+              "RelativeToolTip": "insurance_management\\Exceptions\\PolicyNotFoundException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-05T03:53:28.972Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Policy.cs",
+              "DocumentMoniker": "C:\\Users\\Arshitha\\source\\repos\\insurance_management\\insurance_management\\Models\\Policy.cs",
+              "RelativeDocumentMoniker": "insurance_management\\Models\\Policy.cs",
+              "ToolTip": "C:\\Users\\Arshitha\\source\\repos\\insurance_management\\insurance_management\\Models\\Policy.cs",
+              "RelativeToolTip": "insurance_management\\Models\\Policy.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAuwCAAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-05T05:14:54.061Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Client.cs",
+              "DocumentMoniker": "C:\\Users\\Arshitha\\source\\repos\\insurance_management\\insurance_management\\Models\\Client.cs",
+              "RelativeDocumentMoniker": "insurance_management\\Models\\Client.cs",
+              "ToolTip": "C:\\Users\\Arshitha\\source\\repos\\insurance_management\\insurance_management\\Models\\Client.cs",
+              "RelativeToolTip": "insurance_management\\Models\\Client.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-05T03:54:48.126Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Arshitha\\source\\repos\\insurance_management\\insurance_management\\appsettings.json",
+              "RelativeDocumentMoniker": "insurance_management\\appsettings.json",
+              "ToolTip": "C:\\Users\\Arshitha\\source\\repos\\insurance_management\\insurance_management\\appsettings.json",
+              "RelativeToolTip": "insurance_management\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-05T03:52:19.849Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\Arshitha\\source\\repos\\insurance_management\\insurance_management\\Models\\User.cs",
+              "RelativeDocumentMoniker": "insurance_management\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\Arshitha\\source\\repos\\insurance_management\\insurance_management\\Models\\User.cs",
+              "RelativeToolTip": "insurance_management\\Models\\User.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAiwBkAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-05T03:53:57.417Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Payment.cs",
+              "DocumentMoniker": "C:\\Users\\Arshitha\\source\\repos\\insurance_management\\insurance_management\\Models\\Payment.cs",
+              "RelativeDocumentMoniker": "insurance_management\\Models\\Payment.cs",
+              "ToolTip": "C:\\Users\\Arshitha\\source\\repos\\insurance_management\\insurance_management\\Models\\Payment.cs",
+              "RelativeToolTip": "insurance_management\\Models\\Payment.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-05T03:55:48.713Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "insurance_management",
+              "DocumentMoniker": "C:\\Users\\Arshitha\\source\\repos\\insurance_management\\insurance_management\\insurance_management.csproj",
+              "RelativeDocumentMoniker": "insurance_management\\insurance_management.csproj",
+              "ToolTip": "C:\\Users\\Arshitha\\source\\repos\\insurance_management\\insurance_management\\insurance_management.csproj",
+              "RelativeToolTip": "insurance_management\\insurance_management.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-05T03:50:28.657Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
